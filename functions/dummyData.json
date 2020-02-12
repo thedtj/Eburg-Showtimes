@@ -1,0 +1,30 @@
+{
+	"dates": [
+		{
+			"data": "Friday, January 31 - Thursday, February 6, 2020",
+			"refreshed": 1580622540311
+		}
+	],
+	"movies": [
+		{
+			"title": "GRETEL AND HANSEL",
+			"runningTime": "1hr 28min",
+			"rating": "PG-13",
+			"showtimes": ["2:00", "4:30", "7:00", "9:10"]
+		},
+		{
+			"title": "KNIVES OUT",
+			"runningTime": "2hrs 10min",
+			"rating": "PG-13",
+			"showtimes": ["6:45", "9:15"]
+		}
+	],
+	"comingSoon": [
+		{
+			"title": "BIRDS OF PREY",
+			"runningTime": "Feb. 7",
+			"rating": "R",
+			"showtimes": []
+		}
+	]
+}

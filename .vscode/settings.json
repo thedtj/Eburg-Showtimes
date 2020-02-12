@@ -1,0 +1,19 @@
+{
+	"workbench.colorCustomizations": {
+		"titleBar.activeBackground": "#2c6ce4",
+		"titleBar.inactiveBackground": "#2c6ce499",
+		"titleBar.activeForeground": "#e7e7e7",
+		"titleBar.inactiveForeground": "#e7e7e799",
+		"statusBar.background": "#2c6ce4",
+		"statusBarItem.hoverBackground": "#598bea",
+		"statusBar.foreground": "#e7e7e7",
+		"tab.activeBorder": "#598bea"
+	},
+	"peacock.color": "#2c6ce4",
+	"cSpell.ignoreWords": [
+		"recurse"
+	],
+	"cSpell.words": [
+		"waait"
+	]
+}
